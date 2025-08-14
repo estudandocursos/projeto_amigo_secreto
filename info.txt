@@ -5,7 +5,7 @@ Adicionar nomes:
     
     Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista 
     visível ao clicar em "Adicionar".
-    Capturar o valor do campo de entrada - utilize document.getElementById ou document.querySelector para obter o texto inserido pelo usuário.
+    Capturar o valor do campo de entrada - utilize document.getElementById ou document.querySelector para obter o texto inserido pelo usuário. 
 
 Validar entrada: 
     

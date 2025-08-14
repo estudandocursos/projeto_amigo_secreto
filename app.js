@@ -6,8 +6,8 @@
 let campoDigitado = document.querySelector('.input-name input').value;
 let listaNomes = [];
 
-
-
+let tabelaAmigos = document.querySelector('.name-list ul');
+let resultado = document.querySelector('result-list ul');
 
 
 
@@ -26,7 +26,7 @@ function mostrarNomes(tag, texto){
 function adcionarAmigos() {
 
     if (campoDigitado.value == " ") {
-        alert('Não foi digitado nenhum nome. Digite algum nome por favor!');
+        alert('Não foi digitado nenhum nome. Por favor, insira um nome!');
     } else {
         
     }
